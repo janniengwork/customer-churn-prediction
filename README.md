@@ -1,4 +1,4 @@
-# Credit Card Customer Churn Analysis
+# Customer Churn Prediction
 
 ## Overview
 End-to-end churn prediction on 10,127 bank credit card customers (BankChurners dataset, Kaggle): exploring who churns, building classifiers to flag at-risk customers, and identifying the behaviors that signal churn early.
